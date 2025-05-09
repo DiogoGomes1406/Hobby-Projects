@@ -1,0 +1,1 @@
+This repository only has a pdf with pictures of some of my projects.In the future i expect to add a more solid documentation with some code and videos. 
